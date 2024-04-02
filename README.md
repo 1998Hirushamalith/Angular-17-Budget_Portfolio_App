@@ -11,20 +11,20 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 Creating an Budget Planner from scratch in Angular 17 version | Dive into the cutting-edge world of front end web development.
 
-  App Routing config and creation
-  Angular Material - { Mat-icon | Mat-SnackBar }
-  Angular forms
-  Angular Reactive forms & validators
-    Component creation
-    Following Components are created and designed:
-      Side nav bar 
-      Login and registration form
-      Main dashboard
-      Income card
-      Expense card
-      To do transaction card
-      History card
-      Profile form
+  1. App Routing config and creation
+  2. Angular Material - { Mat-icon | Mat-SnackBar }
+  3. Angular forms
+  4. Angular Reactive forms & validators
+  5. Component creation
+      Following Components are created and designed:
+      5.1  Side nav bar 
+      5.2  Login and registration form
+      5.3  Main dashboard
+      5.4  Income card
+      5.5  Expense card
+      5.6  To do transaction card
+      5.7  History card
+      5.8  Profile form
 
 ## Application Snap shots
 
