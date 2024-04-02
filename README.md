@@ -6,6 +6,30 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
+
+## Application Structure
+
+Creating an Budget Planner from scratch in Angular 17 version | Dive into the cutting-edge world of front end web development.
+
+App Routing config and creation
+Angular Material - { Mat-icon | Mat-SnackBar }
+Angular forms
+Angular Reactive forms & validators
+Component creation
+  Following Components are created and designed:
+    Side nav bar 
+    Login and registration form
+    Main dashboard
+    Income card
+    Expense card
+    To do transaction card
+    History card
+    Profile form
+
+## Application Snap shots
+
+
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
